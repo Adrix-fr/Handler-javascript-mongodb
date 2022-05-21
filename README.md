@@ -7,7 +7,6 @@ Un handler discord.js v13
 
 #### Support:
 
-Notre support est présent sur le support de mon bot Discord (Winter):
-https://discord.gg/hsmD2Q3mjS
+Si tout problème envers le code ou autre, veuillez me contacter $'Airi.#9999
 
-By: Kurama#0001
+By: $'Airi.#9999
