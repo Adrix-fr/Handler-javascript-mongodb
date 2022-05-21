@@ -12,7 +12,7 @@ Allez dans `config.js` et changez le [Token](https://discord.com/developers), pu
 
 #### Deuxième étape :
 
-Allez dans le fichier `structures/handlers/commands` puis modifier l'identifiant de votre serveur
+Allez dans le fichier `structures/handlers/commands` puis mettre l'identifiant de votre serveur
 
 ```js
     client.on("ready", async (client) => {
