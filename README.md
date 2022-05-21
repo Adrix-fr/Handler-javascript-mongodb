@@ -5,7 +5,7 @@ Un handler discord.js v13
 
 
 
-#### Support:
+## Support:
 
 Si tout problème envers le code ou autre, veuillez me contacter $'Airi.#9999
 
