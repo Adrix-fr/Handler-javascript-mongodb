@@ -1,5 +1,5 @@
 # Handler-javascript-mongodb
-## Un handler discord.js v13 :
+Un handler discord.js v13 :
 
 ## Comment lancer le bot ?
 
