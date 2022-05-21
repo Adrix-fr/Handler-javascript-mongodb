@@ -24,6 +24,20 @@ Allez dans le fichier `structures/handlers/commands` puis mettre l'identifiant d
     })
 ```
 
+# Features 
+
+> ✅ Easy-to-use <br>
+> ✅ Stable <br>
+> ✅ Slash Commands <br>
+> ✅ Open Source <br>
+
+# Installation
+
+> Pour installer tous les packages, il suffit d'utiliser :
+> ```bash
+> npm install
+> ```
+
 ## Aide ?
 
 Si tout problème envers le code ou autre, veuillez me contacter sur discord ($'Airi.#9999)
