@@ -16,7 +16,7 @@ Allez dans le fichier `structures/handlers/commands` puis modifier l'identifiant
 
 ```js
     client.on("ready", async (client) => {
-        const MainGuild = await client.guilds.cache.get("977442118169690153");
+        const MainGuild = await client.guilds.cache.get("IDENTIFIANT GUILD");
 
         MainGuild.commands.set(CommandsArray).then(async (command) => {
             MainGuild.commands.set(CommandsArray);
