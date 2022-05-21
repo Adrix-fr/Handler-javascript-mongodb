@@ -28,4 +28,4 @@ Allez dans le fichier `structures/handlers/commands` puis mettre l'identifiant d
 
 Si tout problème envers le code ou autre, veuillez me contacter sur discord ($'Airi.#9999)
 
-By: $'Airi.#9999
+### By: $'Airi.#9999
