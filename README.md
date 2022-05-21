@@ -2,7 +2,7 @@
 
 #### Première étape :
 
-Allez dans `config.js` et changez le [Token](https://discord.com/developers), puis incérer votre lien [Database](https://www.mongodb.com/atlas)
+Allez dans le fichier `structures/config.json` et changez le [Token](https://discord.com/developers), puis incérer votre lien [Database](https://www.mongodb.com/atlas)
 ```json
 {
     "Token": "TOKEN",
