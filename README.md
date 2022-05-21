@@ -26,6 +26,6 @@ Allez dans le fichier `structures/handlers/commands` puis mettre l'identifiant d
 
 ## Aide ?
 
-Si tout problème envers le code ou autre, veuillez me contacter $'Airi.#9999
+Si tout problème envers le code ou autre, veuillez me contacter sur discord ($'Airi.#9999)
 
 By: $'Airi.#9999
