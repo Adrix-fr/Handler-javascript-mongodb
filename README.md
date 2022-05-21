@@ -24,6 +24,13 @@ Allez dans le fichier `structures/handlers/commands` puis mettre l'identifiant d
     })
 ```
 
+# Run
+
+> Pour lancer le bot:
+> ```bash
+> node .
+> ```
+
 # Features 
 
 > ✅ Easy-to-use <br>
