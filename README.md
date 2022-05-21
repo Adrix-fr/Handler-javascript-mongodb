@@ -1,5 +1,6 @@
 ## Comment lancer le bot ?
 
+#### Première étape
 Allez dans `config.js` et changez le [Token](https://discord.com/developers), puis incérer votre lien [Database](https://www.mongodb.com/atlas)
 ```json
 {
