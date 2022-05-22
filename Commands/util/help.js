@@ -10,7 +10,7 @@ const {
 module.exports = {
         name: "help",
         description: "Permet de donner les commandes du bot",
-        directory: "util",
+        directory: "NOM DE LA CATEGORIE POUR LA COMMANDE HELP",
 
         /**
          * @param {CommandInteraction} interaction
