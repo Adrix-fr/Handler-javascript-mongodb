@@ -13,7 +13,7 @@ require('../../Events/client/Ready');
 module.exports = {
     name: "status",
     description: "Montre le statut du client via la database",
-    directory: "util",
+    directory: "NOM DE LA CATEGORIE POUR LA COMMANDE HELP",
     /**
      * 
      * @param {CommandInteraction} interaction 
