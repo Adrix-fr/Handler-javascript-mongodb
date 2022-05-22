@@ -52,7 +52,7 @@ module.exports = {
 
                 const getButtons = (pageNo) => {
                     return new MessageActionRow().addComponents(
-                        new MessageButton().setLabel('précédent').setCustomId('prev').setStyle('DANGER').setDisabled(pageNo < 1),
+                        new MessageButton().setLabel('précédent').setCustomId('prev').setStyle('DANGER').setDisabled(pageNo-1 <1),
                         new MessageButton().setLabel('Suivant').setCustomId('next').setStyle('DANGER').setDisabled(!(pageNo < helpArray.length)),
                     )
                 };
