@@ -8,7 +8,7 @@ const {
 module.exports = {
     name: "ping",
     description: "Donne la latence du bot + api",
-    directory: "moderation",
+    directory: "NOM DE LA CATEGORIE POUR LA COMMANDE HELP",
     /**
      * @param {CommandInteraction} interaction
      * @param {Client} client
