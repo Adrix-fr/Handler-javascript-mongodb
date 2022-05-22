@@ -88,7 +88,6 @@ module.exports = {
                         embed.fields = [];
                         embed.setTitle(`**__Categorie :__** \`${categ.name}\``).addFields(
                             categ.commands.map(({ name, description }) => {
-                                console.log(name, description)
                                 return {
                                     name: `\`${name}\``,
                                     value: `${description}`,
